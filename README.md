@@ -1,6 +1,6 @@
 # Данный backend позволит Вам выполнить проект
 
-  - [Ссылка на макет] https://www.figma.com/file/0pMguGfGcTgufmXlNJe5gO/IE-FE?type=design&node-id=0%3A1&mode=design&t=SVYvDXP7EzFIVWrg-1
+  - **Ссылка на макет**: https://www.figma.com/file/0pMguGfGcTgufmXlNJe5gO/IE-FE?type=design&node-id=0%3A1&mode=design&t=SVYvDXP7EzFIVWrg-1
 
 Это API, которое Вам необходимо скачать и запустить у себя локально. Вам не нужно его манять или дорабатывать. Данный проект будет представлять back-end вашего проекта.
 
