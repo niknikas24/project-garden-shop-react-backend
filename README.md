@@ -23,5 +23,5 @@ https://www.figma.com/file/0pMguGfGcTgufmXlNJe5gO/IE-FE?type=design&node-id=0%3A
 ### /order/send     - отправка заказа на сервер
 
 ## Пример работы бэкенда:
-http://localhost:3333/products/all
-http://localhost:3333/category_img/4.jpeg
+# http://localhost:3333/products/all
+# http://localhost:3333/category_img/4.jpeg
