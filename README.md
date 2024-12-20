@@ -1,4 +1,4 @@
-# Данный backend позволит Вам выполнить проект
+# Данный backend позволит Вам выполнить проект.
 
   - **Ссылка на макет**: https://www.figma.com/file/0pMguGfGcTgufmXlNJe5gO/IE-FE?type=design&node-id=0%3A1&mode=design&t=SVYvDXP7EzFIVWrg-1
 
