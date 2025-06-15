@@ -1,8 +1,7 @@
 # Данный backend позволит Вам выполнить проект.
 
-  - **[Ссылка на макет]** (https://www.figma.com/file/0pMguGfGcTgufmXlNJe5gO/IE-FE?type=design&node-id=0%3A1&mode=design&t=SVYvDXP7EzFIVWrg-1)
-  
-  - **[Ссылка на Render]** (https://project-garden-shop-react-backend.onrender.com) 
+- [Ссылка на макет](https://www.figma.com/file/0pMguGfGcTgufmXlNJe5gO/IE-FE?type=design&node-id=0%3A1&mode=design&t=SVYvDXP7EzFIVWrg-1)
+- [Ссылка на Render](https://project-garden-shop-react-backend.onrender.com) 
 
 Это API, которое Вам необходимо скачать и запустить у себя локально. Вам не нужно его менять или дорабатывать. Данный проект будет представлять backend вашего проекта.
 
